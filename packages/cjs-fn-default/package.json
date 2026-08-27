@@ -1,0 +1,7 @@
+{
+  "name": "cjs-fn-default",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A CommonJS package whose `default` export is a function, alongside named exports.",
+  "main": "index.js"
+}

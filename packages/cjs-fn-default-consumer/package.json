@@ -1,0 +1,10 @@
+{
+  "name": "cjs-fn-default-consumer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A CommonJS package that does `import * as ns from 'cjs-fn-default'`, i.e. __importStar(require(...)).",
+  "main": "index.js",
+  "dependencies": {
+    "cjs-fn-default": "file:../cjs-fn-default"
+  }
+}
